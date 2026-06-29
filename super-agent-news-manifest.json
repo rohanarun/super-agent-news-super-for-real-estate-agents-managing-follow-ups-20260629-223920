@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[forbes.com](https://www.forbes.com/sites/bernardmarr/2026/06/27/gemini-35-flash-computer-use-everything-we-know-so-far/)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[techandrealestate.com](https://techandrealestate.com/blog/agentic-ai-real-estate-agents-brokers-2026/)",
+    "[coasty.ai](https://coasty.ai/blog/ai-computer-use-agent-revolutionizes-real-estate-agents)",
+    "[aitoolsforpros.com](https://aitoolsforpros.com/gemini/real-estate/)",
+    "[aimultiple.com](https://research.aimultiple.com/computer-use-agents/)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=1120px max-width 2\u20133 lines; AIDA=pass; bento_density=grid-auto-flow:dense verified; label_sweep=all competitors mentioned; button_contrast=black/white pills AA+",
+  "generated_at": "2026-06-29T22:39:27.413112+00:00",
+  "headline": "Super for real estate agents managing follow-ups, listings, and scheduling",
+  "site_brief": {
+    "audience": "real estate agents managing follow-ups, listings, and scheduling",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "real estate agents managing follow-ups, listings, and scheduling AI assistant",
+      "real estate agents managing follow-ups, listings, and scheduling personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-real-estate-agents-managing-follow-ups-listings",
+    "title": "Super for real estate agents managing follow-ups, listings, and scheduling"
+  },
+  "summary": "A conversion-focused niche landing page for real estate agents who live inside MLS, CRM, email, and calendars. Positions Super as a personal AI agent that actually operates computers and reuses a computer-use cache for repeated workflows \u2014 contrasting fairly with ChatGPT, Gemini, Siri, Grok, Folk, and Orchids, and grounded in current reporting on computer-use agents and real estate automation."
+}
